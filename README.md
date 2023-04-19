@@ -9,6 +9,8 @@ In data pre-processing, use Pandas' dataframe function to display various attrib
 
 The data set obtained after data preprocessing is named "exams.csv", and the subsequent data visualization and machine learning model implementation are based on this new data set.
 
+In data visualization, using "AutoViz_Class" from "autoviz.AutoViz_Class", generate output of the “output.html”; scatter plot; distribution plot and bar chart, realize data visualization.
+
 In model implemenatation, After randomly dividing the training and testing sets of the dataset, three functions of the sklearn library were called to construct the linear regression, decision tree regression, and random forest regression models.
 
 After the model training is completed, the model will be evaluated by outputting mse, mae, r-square.
